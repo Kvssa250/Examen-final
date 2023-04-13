@@ -1,0 +1,15 @@
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\bin\Debug\net7.0\Examen.exe
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\bin\Debug\net7.0\Examen.deps.json
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\bin\Debug\net7.0\Examen.runtimeconfig.json
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\bin\Debug\net7.0\Examen.dll
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\bin\Debug\net7.0\Examen.pdb
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.csproj.AssemblyReference.cache
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.AssemblyInfoInputs.cache
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.AssemblyInfo.cs
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.dll
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\refint\Examen.dll
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.pdb
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\Examen.genruntimeconfig.cache
+C:\Users\Kvssa\Desktop\Tarea\Programacion I\Examen final\Examen\Examen\obj\Debug\net7.0\ref\Examen.dll
